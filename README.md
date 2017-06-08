@@ -21,7 +21,7 @@ We use Labels as tools to sort and review sessions. You will see labels indicati
 In 2017 we are catagorising sessions under 3 headings. We are testing these categories as ways to format sessions but also as tool for the festival attendees to get greater clarity on the type of learning and interaction they will find from a session under this category at the festival. 
 We have 3 categories:
 
-- _A shed_, for hands-on making, hacking and prototyping. Sessions in the Shed require attendees to create and build code, objects or crafts
+- _Shed_, for hands-on making, hacking and prototyping. Sessions in the Shed require attendees to create and build code, objects or crafts
 - _Learning Forum_, for listening, learning and discussing individual topics. Sessions here develop and implement ideas for improvement, exchange or review.
 - _Gallery_, contains interactive exhibits, installations, games, stalls designed for 1:1 self driven experience and emergent activities. Often these experiences or activities are not scheduled time blocks but take place over the day or weekend allowing access and interaction at any time. The Gallery can provide context for upcoming sessions, and finished prototypes from sessions for that relevant Space.
 
